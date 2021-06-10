@@ -4,27 +4,23 @@
                   "id": 4563,
                   "name": "Producto 1",
                   "price": 124.9,
-                  "stock": 0,
-                  "amountToBuy": 0
+                  "stock": 0
                  },
                  {
                   "id": 7892,
                   "name": "Producto 2",
                   "price": 33.9,
-                  "stock": 15,
-                  "amountToBuy": 0
+                  "stock": 15
                  },{
                   "id": 3632,
                   "name": "Producto 3",
                   "price": 70,
-                  "stock": 17,
-                  "amountToBuy": 0
+                  "stock": 17
                  },{
                   "id": 4489,
                   "name": "Bananas",
                   "price": 179.99,
-                  "stock": 200,
-                  "amountToBuy": 0
+                  "stock": 200
                  }
               ]
 }
