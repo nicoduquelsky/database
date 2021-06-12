@@ -24,5 +24,31 @@
                   "price": 179.99,
                   "stock": 200
                  }
-              ]
+              ],
+  "Promos": [
+                 {
+                   "id": 1,
+                   "code": "Promo1",
+                   "type": "discount value",
+                   "value": "200"
+                 },
+                 {
+                   "id": 2,
+                   "code": "Promo2",
+                   "type": "discount percentage",
+                   "value": "15"
+                 },
+                 {
+                   "id": 3,
+                   "code": "Promo3",
+                   "type": "free shipment",
+                   "value": ""
+                 },
+                 {
+                   "id": 4,
+                   "code": "Promo4",
+                   "type": "shipment percentage",
+                   "value": "200"
+                 }
+           ]
 }
